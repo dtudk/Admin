@@ -51,6 +51,19 @@ Our basic permissions are:
 To add a new user to projects, contact a person with the `Maintain` role of the project.  
 
 
+
+### Zenodo integration
+
+Zenodo enables automatic DOI association with a software release.
+For details please use the [Zenodo homepage](https://zenodo.org).
+
+If the repository will need Zenodo integration, please open a discussion
+or write to [mycode@dtu.dk](mailto:mycode@dtu.dk) and ask for connection
+with Zenodo.
+
+Please note that Zenodo integration will only be allowed for Public repositories.
+
+
 ### Other requests
 
 Please feel free to ask questions about usage and/or suggestions for improving the process flow
