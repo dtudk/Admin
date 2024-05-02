@@ -1,6 +1,6 @@
 ## Adminstrative project
 
-An administrative project helping [DTU](www.dtu.dk) researchers to create and/or share code projects under a common DTU namespace.
+An administrative project helping [DTU](https://www.dtu.dk) researchers to create and/or share code projects under a common DTU namespace.
 
 Please open a [new issue](https://github.com/dtudk/Admin/issues/new/choose) in this project for new users and creating repositories.
 Or, [open a discussion](https://github.com/orgs/dtudk/discussions/categories/ask-for-a-sub-repo).  
@@ -20,8 +20,8 @@ See following items for detailed information.
 
 #### Opensource/public codes
 
-- Obtain a [Software Notification Form](https://www.inside.dtu.dk/da/medarbejder/om-dtu-campus-og-bygninger/kommunikation-og-design/meddelelser/meddelelser_dtuansatte/meddelelsevisning?id={FA708C06-2270-423B-907D-91F1C8B7D0A3}) from [here](https://www.inside.dtu.dk/da/medarbejder/forskning-innovation-og-raadgivning/forskningssamarbejde-jura-og-kontraktforhold/om-software/software-der-ikke-oenskes-kommercialiseret)
-- Choose a license for the software
+- Obtain a [Software Notification Form](https://www.inside.dtu.dk/da/medarbejder/om-dtu-campus-og-bygninger/kommunikation-og-design/meddelelser/meddelelser_dtuansatte/meddelelsevisning?id={FA708C06-2270-423B-907D-91F1C8B7D0A3}) from [here](https://www.inside.dtu.dk/da/medarbejder/forskning-innovation-og-raadgivning/forskningssamarbejde-jura-og-kontraktforhold/om-software/software-der-ikke-oenskes-kommercialiseret), or at least discuss it with your departments innovation responsible.
+- Choose a license for the software, such that you uphold the software dependent packages/libraries licenses
 - Choose a unique repository name
 - A list of DTU users that will gain access.  
   Please designate at least 1 maintainer. This maintainer can invite members at will.
@@ -61,7 +61,7 @@ If the repository will need Zenodo integration, please open a discussion
 or write to [mycode@dtu.dk](mailto:mycode@dtu.dk) and ask for connection
 with Zenodo.
 
-Please note that Zenodo integration will only be allowed for Public repositories.
+Please note that Zenodo integration can only be done for Public repositories.
 
 
 ### Other requests
