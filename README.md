@@ -20,7 +20,7 @@ See following items for detailed information.
 
 #### Opensource/public codes
 
-- Obtain a [Software Notification Form](https://www.inside.dtu.dk/da/medarbejder/om-dtu-campus-og-bygninger/kommunikation-og-design/meddelelser/meddelelser_dtuansatte/meddelelsevisning?id={FA708C06-2270-423B-907D-91F1C8B7D0A3}) from [here](https://www.inside.dtu.dk/da/medarbejder/forskning-innovation-og-raadgivning/forskningssamarbejde-jura-og-kontraktforhold/om-software/software-der-ikke-oenskes-kommercialiseret), or at least discuss it with your departments innovation responsible.
+- Obtain a [Software Notification Form](https://www.inside.dtu.dk/en/research/commercialisation-and-patenting/patents-and-software/submit-a-software-notification), or at least discuss it with your departments innovation responsible.
 - Choose a license for the software, such that you uphold the software dependent packages/libraries licenses
 - Choose a unique repository name
 - A list of DTU users that will gain access.  
